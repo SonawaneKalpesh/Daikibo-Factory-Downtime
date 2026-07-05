@@ -202,7 +202,7 @@ Daikibo-Factory-Downtime/
 Add a screenshot of your Tableau dashboard in the `Images` folder and display it here.
 
 ```markdown
-![Dashboard](Images/%7B31118191-2527-46E4-959D-04CE23096004%7D.png)
+![Dashboard](Images/{31118191-2527-46E4-959D-04CE23096004}.png)
 ```
 
 ---
